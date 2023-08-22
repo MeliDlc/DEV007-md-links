@@ -2,12 +2,6 @@
 
 ## Content
 
-<table align="right">
- <tr><td> <a href="README.md"><img src="./images/usa.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img style="margin: 0px 0px 2px 0px" src="./images/esp.png" height="8.5"> Español</a></td></tr>
-</td></tr>
-</table>
-
 * [1. Summary](#1-summary)
 * [2. General aspects](#2-general-aspects)
 * [3. Install](#3-install)
@@ -131,3 +125,4 @@ Broken: 1
 ```
 
 ## 5. Flowchart
+![Untitled Diagram drawio](https://github.com/MeliDlc/DEV007-md-links/assets/129780351/b07d6431-0678-4aad-b471-8a68eedb00b3)
